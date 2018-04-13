@@ -1,4 +1,4 @@
-package com.javatpoint.beans;
+package com.javaFeeMngmnt.beans;
 
 public class AccountantBean {
 private int id;

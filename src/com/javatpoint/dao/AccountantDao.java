@@ -7,8 +7,8 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.javatpoint.beans.AccountantBean;
-import com.javatpoint.beans.StudentBean;
+import com.javaFeeMngmnt.beans.AccountantBean;
+import com.javaFeeMngmnt.beans.StudentBean;
 
 public class AccountantDao {
 	

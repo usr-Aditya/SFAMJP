@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.javatpoint.beans.StudentBean;
+import com.javaFeeMngmnt.beans.StudentBean;
 import com.javatpoint.dao.StudentDao;
 @WebServlet("/EditStudentForm")
 public class EditStudentForm extends HttpServlet {

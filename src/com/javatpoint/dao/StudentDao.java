@@ -1,9 +1,10 @@
 package com.javatpoint.dao;
 
-import com.javatpoint.beans.StudentBean;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.javaFeeMngmnt.beans.StudentBean;
 public class StudentDao {
 	
 public static int save(StudentBean bean){
